@@ -8,8 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "About Me"
+    url: "{{ site.baseurl }}/"
+
+  - title: "News"
+    url: "{{ site.baseurl }}/#news"
+
   - title: "Publications"
-    url: /publications/
+    url: "{{ site.baseurl }}/#publications"
 
   # - title: "Talks"
   #   url: /talks/    
