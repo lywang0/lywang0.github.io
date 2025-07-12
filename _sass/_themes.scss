@@ -15,7 +15,10 @@ $indent-var                 : 1.3em;
 
 /* System typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif: 'AlibabaPuHuiTi', -apple-system, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
@@ -70,7 +73,7 @@ $susy: (
     math: fluid,
     output: float,
     gutter-position: after,
-    container: $large,
+    container: $xlarge,
     global-box-sizing: border-box,
 );
 
