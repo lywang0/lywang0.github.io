@@ -13,7 +13,7 @@ Welcome! I am an undergraduate student majoring in Electronic Information Engine
 My research focuses on edge LLM systems and LLM serving frameworks. I am particularly interested in runtime scheduling and system-level optimization of LLM inference and deployment, with the goal of enabling high-performance and resource-efficient LLM services on edge servers.
 
 ## <a id="news"></a>News
-- **2025.07**: Admitted as research assistant(Fall 2026) and Ph.D. offer (Fall 2027) confirmed at CityUHK under Prof. Zhenjiang Li.
+- **2025.07**: Admitted as research assistant (Fall 2026) and Ph.D. offer (Fall 2027) confirmed at CityUHK under Prof. Zhenjiang Li.
 
 ## <a id="publications"></a>Publications
 
