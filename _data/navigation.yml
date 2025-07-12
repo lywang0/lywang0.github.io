@@ -10,13 +10,13 @@
 main:
 
   - title: "About Me"
-    url: "{{ site.baseurl }}/"
+    url: "/"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#publications"
+    url: "/#publications"
 
   # - title: "Talks"
   #   url: /talks/    
