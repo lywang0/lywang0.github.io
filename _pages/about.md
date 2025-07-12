@@ -13,13 +13,19 @@ redirect_from:
 My research focuses on **edge LLM systems** and **LLM serving systems**. I am particularly interested in runtime scheduling and system-level optimization of LLM inference and deployment, with the goal of enabling high-performance and resource-efficient LLM services on edge servers.
 
 ## <a id="news"></a>News
-- **2025.07**: 🎉 Admitted as research assistant (Fall 2026) and Ph.D. offer (Fall 2027) confirmed at CityUHK under Prof. Zhenjiang Li.
+[**2025.07**] 🎉 Admitted as research assistant (Fall 2026) and Ph.D. offer (Fall 2027) confirmed at CityUHK under Prof. Zhenjiang Li.
 
 ## <a id="publications"></a>Publications
 
 I wish I had some... but stay tuned!
 
-<!-- ## <a id="educations">Educations
+
+## <a id="educations">Educations
+
+[**2022.09 - 2026.06**] Electronic Information and Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology
+
+
+<!-- 
 
 ## <a id="internships">Internships
 
