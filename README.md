@@ -1,6 +1,6 @@
 # Welcome to Lingyu's Personal Website Repository 👋
 
-This is the source code for [**Lingyu's personal academic website**](https://lywang0.github.io/website).
+This is the source code for [**Lingyu's personal academic website**](https://lywang0.github.io).
 
 
 ## 🧾 License
