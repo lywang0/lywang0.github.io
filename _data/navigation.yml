@@ -28,10 +28,10 @@ main:
   #   url: "/#awards" 
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /#talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /#teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
